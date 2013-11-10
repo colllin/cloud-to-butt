@@ -1,4 +1,4 @@
-;function() {
+;(function() {
 
 var substitutions = [
 	[/\bwitnesses\b/g, "these dudes I know"],
@@ -58,4 +58,4 @@ function handleText(textNode)
 }
 
 
-}();
+})();
