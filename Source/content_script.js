@@ -51,7 +51,7 @@ function handleText(textNode)
 	var v = textNode.nodeValue;
 
 	for (var i = 0; i < substitutions.length; i++) {
-		v.replace(substitutions[i][0], substitutions[i][1]);
+		v = v.replace(substitutions[i][0], substitutions[i][1]);
 	}
 	
 	textNode.nodeValue = v;
