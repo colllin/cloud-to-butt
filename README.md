@@ -1,7 +1,5 @@
-xkcd-news-substitions
+xkcd-news-substitutions
 =============
-
-work in progress. 
 
 [Direct download of crx file](https://github.com/colllin/xkcd-news-substitutions/blob/master/XKCD-News-Substitions.crx?raw=true)
 
